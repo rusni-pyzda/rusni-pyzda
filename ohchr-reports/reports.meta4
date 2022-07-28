@@ -5,313 +5,352 @@
         <!-- Incorrectly shows up on the website as published in 2005 -->
         <date>2015-12-09</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-10"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/12thOHCHRreportUkraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/12thOHCHRreportUkraine.pdf</url>
         <size>763001</size>
         <hash type="md5">5b6fb4ad651e79a5aef58fe12ef234e7</hash>
         <hash type="sha-512">7fab84e2d69195b929c99dbd7412a3c3b6d2e4fa75b3ae8350e91619a98e05d5ce480e25d8e628342c9e472d52a7c70e991bc2c0ad2be9fb9d13f54c50f221b9</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20151209_12thOHCHRreportUkraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140415_Ukraine_Report_15April2014.doc">
         <date>2014-04-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-17"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc</url>
         <size>211968</size>
         <hash type="md5">4fec70fce3593009be24580b331f1538</hash>
         <hash type="sha-512">45d8473c6ac2d2dcdb96c3399f0b63dc69a640414eab91240c09c70eeba3fd0aace77055340a9f91524dd66d0095a4a9abcd6bd04da65516b90bf2c8a536a346</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140415_Ukraine_Report_15April2014.doc">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140515_HRMMUReport15May2014.pdf">
         <date>2014-05-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15May2014.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15May2014.pdf</url>
         <size>897556</size>
         <hash type="md5">dd834e6c248997aec7a658e2a12e251a</hash>
         <hash type="sha-512">0b237305785a74c35a5289788ee6b875fd9124ec403f024f306ea07668c27eb5cf033337d27c3872bb44f627e9cbe9a50f1e52670e7238d746537f138f403937</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140515_HRMMUReport15May2014.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140615_HRMMUReport15June2014.pdf">
         <date>2014-06-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-15"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf</url>
         <size>601390</size>
         <hash type="md5">4add363724a476455bbbf5e12693f169</hash>
         <hash type="sha-512">91d394e9d280a784f89f07d1027e867638cdf2b5565939ef9dd6b8fa41ba1ab692528636f0c46d010c5d7ec5f5f6dbee5ddcc9ebf7dcdee226064d879a038ba3</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140615_HRMMUReport15June2014.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140715_Ukraine_Report_15July2014.pdf">
         <date>2014-07-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-5"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15July2014.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15July2014.pdf</url>
         <size>673288</size>
         <hash type="md5">eb3e102f68c9484172238619020950ac</hash>
         <hash type="sha-512">907b9140cd35fdcdaa111f28c8953cb0c513443267fead9cc2e27c6a538ad3600bc14400e04fa76e03b653c48f1a673db009ea3ce7bd1ca6b0c59c0f3a0a6b99</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140715_Ukraine_Report_15July2014.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140829_UkraineReport28August2014.pdf">
         <date>2014-08-29</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-4"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UkraineReport28August2014.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UkraineReport28August2014.pdf</url>
         <size>262192</size>
         <hash type="md5">3769041bed84c7ed76cda346e89381f4</hash>
         <hash type="sha-512">570d84fd7e64e3bb9dd29902e016ea6ef91e085fac92f8fe99d14d3d993535bc5845dd32f151f0e50a9a99acf5a0e5b9f25a57a8ecfda9d90a808d1afd52d9a1</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140829_UkraineReport28August2014.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20140919_G1416738.pdf">
         <date>2014-09-19</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-situation-human-rights-ukraine"/>
-        <url>https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/167/38/PDF/G1416738.pdf</url>
+        <url priority="2">https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/167/38/PDF/G1416738.pdf</url>
         <size>2542773</size>
         <hash type="md5">74bdd13ea719244343164f2c73757dcb</hash>
         <hash type="sha-512">a7c07e6a4bd88cd440d01fb69c87c1bb96d47274ce131911e003f9b057d1b29eb229ea6e20b3d6cbcc15528dce69684cb06a83a246f30d9bf8fd7a611d9cb62b</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20140919_G1416738.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20141008_OHCHR_sixth_report_on_Ukraine.pdf">
         <date>2014-10-08</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-3"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/OHCHR_sixth_report_on_Ukraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/OHCHR_sixth_report_on_Ukraine.pdf</url>
         <size>813239</size>
         <hash type="md5">8e583f8896cb3ce3b7591f2275e7fa83</hash>
         <hash type="sha-512">228a1269e6be3cf65d78a3a8fe6428476b20e3437419ab30dee75e99331c08b4c28b03c6f753b274cfc1577c6313946ccf5030cd648ca6f362e9f843f748b9e2</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20141008_OHCHR_sixth_report_on_Ukraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20141215_OHCHR_eighth_report_on_Ukraine.pdf">
         <date>2014-12-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-14"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/OHCHR_eighth_report_on_Ukraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/OHCHR_eighth_report_on_Ukraine.pdf</url>
         <size>528989</size>
         <hash type="md5">49163f81f79309c7f11f4a61ac2cf7a6</hash>
         <hash type="sha-512">013ab9b2484488a98e0179bb1f7120edbbbd949132db77cc2e8ed9bd087286dab436a9018063fb78756e92029f0eb2011de4871f73d479f4d10f634795e61491</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20141215_OHCHR_eighth_report_on_Ukraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20150215_9thOHCHRreportUkraine.pdf">
         <date>2015-02-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-13"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/9thOHCHRreportUkraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/9thOHCHRreportUkraine.pdf</url>
         <size>357262</size>
         <hash type="md5">e447988b2fac39a0c99e1362f64eca35</hash>
         <hash type="sha-512">5d3121e7230927611dabb3cd0c590defa6f13d67839e9950ece3124e0db7ccb3f71bc356c905152e7bb75d2d65ef1f2156ffdb635710defa6382292a780d75ea</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20150215_9thOHCHRreportUkraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20150601_10thOHCHRreportUkraine.pdf">
         <date>2015-06-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-12"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/10thOHCHRreportUkraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/10thOHCHRreportUkraine.pdf</url>
         <size>558632</size>
         <hash type="md5">3489e1bbc139c2eab4cc1692131ee3a4</hash>
         <hash type="sha-512">6c7f7142e1fe7599f2ce667e0a3108105f7bc1097d659f05292b471d2051886af723d1402b063aa634b780c6732ab26257918d75d1f6492aef9d09dfd13a35fc</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20150601_10thOHCHRreportUkraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20150815_11thOHCHRreportUkraine.pdf">
         <date>2015-08-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-11"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/11thOHCHRreportUkraine.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/11thOHCHRreportUkraine.pdf</url>
         <size>515480</size>
         <hash type="md5">0391cae3fff701ae1c3f722920a7dec8</hash>
         <hash type="sha-512">a1da0fb0d5d9cabd6df0763a3cf12441221b8f6c2e9961316279c3862c349acf03bbcfe7d9ffff031c6cfabe6cd06e6722b5e66f27be97375c0cae8aef23df6d</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20150815_11thOHCHRreportUkraine.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20160303_Ukraine_13th_HRMMU_Report_3March2016.pdf">
         <date>2016-03-03</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-9"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_13th_HRMMU_Report_3March2016.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_13th_HRMMU_Report_3March2016.pdf</url>
         <size>870643</size>
         <hash type="md5">92bd0e0d663dd1b9eae53d9d089efdaa</hash>
         <hash type="sha-512">a65a76f697a9f47312a9eab9fce71efab9f13e8c874f00b75be84d247f9ee6019640a70d22da0b5c89f8a2513b76546dc0a566141926cffa62761776affe65af</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20160303_Ukraine_13th_HRMMU_Report_3March2016.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20160603_Ukraine_14th_HRMMU_Report.pdf">
         <date>2016-06-03</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-8"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_14th_HRMMU_Report.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_14th_HRMMU_Report.pdf</url>
         <size>1390544</size>
         <hash type="md5">96f24192d3f33263c27feccad409333f</hash>
         <hash type="sha-512">b280c07865a23aa81cdc60e143ef7035d4174b40faeb1924f64167dc041aa4e7d257ad7606b829612dfeaf1f7902cef32447fe674cc335002521f58270c32262</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20160603_Ukraine_14th_HRMMU_Report.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20160915_Ukraine15thReport.pdf">
         <date>2016-09-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-7"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine15thReport.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine15thReport.pdf</url>
         <size>2781210</size>
         <hash type="md5">59307dcd1bb7591548445c72d7c61cf5</hash>
         <hash type="sha-512">bc1184d152411e7be31acfa47891d431c1d6146f1edcffc774fa511d0bc806ec5128248f5ef46d6336a9099bdfa2d46e7b84c87fd7bf2a8749055ce94856db07</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20160915_Ukraine15thReport.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20161208_UAReport16th_EN.pdf">
         <date>2016-12-08</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-6"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport16th_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport16th_EN.pdf</url>
         <size>1383481</size>
         <hash type="md5">65527c59c3f2474a32e525428740bc9c</hash>
         <hash type="sha-512">3c6ac3687dfe6e3f97e1094a06093764fa73243ce50c8ab1201694dd7a70d204ac193042d8a03dcb7b2ed1bdb82cfdc08d26a541d6947f93cbada2b779e2db8d</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20161208_UAReport16th_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20170315_UAReport17th_EN.pdf">
         <date>2017-03-15</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-2"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport17th_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport17th_EN.pdf</url>
         <size>1813358</size>
         <hash type="md5">d56f4cf15d565dcb32e516ca26299f81</hash>
         <hash type="sha-512">9374dcc26fcfafe679922754384df6857f0918d43a6216221bcecc4cbf89ee11e19402e24dfc9c43ac89d07ec84d1696589dad8cae4cfe8d43d9c24be6234d83</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20170315_UAReport17th_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20170613_UAReport18th_EN.pdf">
         <date>2017-06-13</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/office-united-nations-high-commissioner-human-rights-report-human-rights"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport18th_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport18th_EN.pdf</url>
         <size>3089361</size>
         <hash type="md5">af96f009c685f69698d0c96d1a575219</hash>
         <hash type="sha-512">0c69c2864ad788e669ebc5ba2548570c82a2c845b2107e7577e830dfcda083b2faeea1e7a0cdb7f5840d4b94f5b64eec552250bd22963b9151ed1666b1c1252c</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20170613_UAReport18th_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20170901_UAReport19th_EN.pdf">
         <date>2017-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-may-15-august-2017"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport19th_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport19th_EN.pdf</url>
         <size>1916896</size>
         <hash type="md5">458e6a07608eab8a86bc8e2360c5228c</hash>
         <hash type="sha-512">a813b67229e98c47e98ffaf089011a1ed64c5b47f67cedca7ce2e759a9960b0cd81d023f37b83e61fe0345c221c2aef77a09df0b77c5edff519fa2c6ff48a98b</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20170901_UAReport19th_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20171201_UAReport20th_EN.pdf">
         <date>2017-12-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-august-15-november-2017"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport20th_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UAReport20th_EN.pdf</url>
         <size>2587448</size>
         <hash type="md5">56668ecfaca6a9bed25a320c7cef4d76</hash>
         <hash type="sha-512">31c7e3d5aa7fdfece1876cb5c8183b7c8a71d77821739302d032f4fcfc54b82eb7c87f33553dcc8a9cf2aae7ddf47e1aac273452ce8a569b54af461051af9aec</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20171201_UAReport20th_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20180301_ReportUkraineNov2017-Feb2018_EN.pdf">
         <date>2018-03-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-1"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineNov2017-Feb2018_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineNov2017-Feb2018_EN.pdf</url>
         <size>1964391</size>
         <hash type="md5">29ade1774cf1e82eaace9e3fd09cd7d2</hash>
         <hash type="sha-512">791f4bf6a6358aa9a5da3d1b73596c6a7a95e4081f27c75a15e29a5cc39636d27898f3ea641762d1d24f413ea05754e42976684772106966370eb70b7ed1ff59</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20180301_ReportUkraineNov2017-Feb2018_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20180601_ReportUkraineFev-May2018_EN.pdf">
         <date>2018-06-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-0"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineFev-May2018_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineFev-May2018_EN.pdf</url>
         <size>1313215</size>
         <hash type="md5">5713778534c344a9ce99c2da47588953</hash>
         <hash type="sha-512">80a7187bee34f56c3477485640f0c9ede3401a5392691f3347e19eb58a806ecfd5f0b112390382c522c8ca49a7eb68e387949ae1344a3105c9b2520551d41081</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20180601_ReportUkraineFev-May2018_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="crimea_20180901_CrimeaThematicReport10Sept2018_EN.pdf">
         <date>2018-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/situation-human-rights-temporarily-occupied-autonomous-republic-crimea"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/CrimeaThematicReport10Sept2018_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/CrimeaThematicReport10Sept2018_EN.pdf</url>
         <size>1886481</size>
         <hash type="md5">feb4c7467711e0b822abb9829418c5a3</hash>
         <hash type="sha-512">46e1b3b48773ada65fc3d4c863830dc2555221ccb529ddd2ec1c917e1a41e2f6b93d571f915de16df42a3d0377eba277729fe5c726862faa570cd4d902815393</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/crimea_20180901_CrimeaThematicReport10Sept2018_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20180901_ReportUkraineMay-August2018_EN.pdf">
         <date>2018-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineMay-August2018_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraineMay-August2018_EN.pdf</url>
         <size>1149130</size>
         <hash type="md5">00d5c402e7b4e929b0ed32b2d5b54fcf</hash>
         <hash type="sha-512">4c482762ffb77426fd5fecdcd86e800e26372bb41c712205229150c6b98d800ebc66ed634dee2e621bb53f88c5ad35205a097e8c03133ebf32556ba2b58f04df</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20180901_ReportUkraineMay-August2018_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20181201_24thReportUkraineAugust_November2018_EN.pdf">
         <date>2018-12-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-august-15-november-2018"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/24thReportUkraineAugust_November2018_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/24thReportUkraineAugust_November2018_EN.pdf</url>
         <size>1533051</size>
         <hash type="md5">9193b36284a9cf23ddd205bf2d29666f</hash>
         <hash type="sha-512">ef38a13cce5c0510770b222a512b3fd6f4a347b373aeb813b94d1deca7d4200945a25b84a6feae6c02b38de09d446a2705a33362e2fff233b0073942af32c692</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20181201_24thReportUkraineAugust_November2018_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20190301_ReportUkraine16Nov2018-15Feb2019.pdf">
         <date>2019-03-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-november-2018-15-february-2019"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16Nov2018-15Feb2019.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16Nov2018-15Feb2019.pdf</url>
         <size>1421085</size>
         <hash type="md5">8e94ad245196b47be26a3f11ae8af4a4</hash>
         <hash type="sha-512">dd2498ea5cf3d5e7b3f6ecf4aa0addcc8f6ec0dfea624f37a26fedee7d1e660847cf6c1238d46cad97baa0ce3575a950fd7010f5ea9f76205519335bdd6edeb3</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20190301_ReportUkraine16Nov2018-15Feb2019.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20190601_ReportUkraine16Feb-15May2019_EN.pdf">
         <date>2019-06-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-february-15-may-2019"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16Feb-15May2019_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16Feb-15May2019_EN.pdf</url>
         <size>1494271</size>
         <hash type="md5">1749409753bc2598bee46b53c8cbf1e4</hash>
         <hash type="sha-512">139718f7ccc26082833fbf3359e81c951ce1ce17ed67c25795b2691e71f14262892ae69382886ae2a28d33344fe1dd3e254b665ad0b2502901f3ec33b3dd02cf</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20190601_ReportUkraine16Feb-15May2019_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20190901_ReportUkraine16May-15Aug2019_EN.pdf">
         <date>2019-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-may-15-august-2019"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16May-15Aug2019_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/ReportUkraine16May-15Aug2019_EN.pdf</url>
         <size>1475509</size>
         <hash type="md5">6ccbfc8cc81757d065c8728f3301d6d3</hash>
         <hash type="sha-512">26ec7965d5bdde9957855ddd438c2857a564dcbb9033223ee61df3c0cd7388e0e3303df2a722153878c229d8559c85e617faff4e4dd77d5554c391f7cf5ea497</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20190901_ReportUkraine16May-15Aug2019_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20191201_28thReportUkraine_EN.pdf">
         <date>2019-12-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-august-15-november-2019"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/28thReportUkraine_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/28thReportUkraine_EN.pdf</url>
         <size>2115990</size>
         <hash type="md5">fe5d6f1d8423d9d3417b0db5d3bd6da5</hash>
         <hash type="sha-512">02a1a373083904751d0ae6cbcef5b282375c8899ea79e879ea89f3749e12cbc84d6ddbe99d51dea3474e359c37219f0ccd436c91ce945f5e137ac00e03a7076f</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20191201_28thReportUkraine_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20200301_29thReportUkraine_EN.pdf">
         <date>2020-03-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-november-2019-15-february-2020"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/29thReportUkraine_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/29thReportUkraine_EN.pdf</url>
         <size>2762915</size>
         <hash type="md5">d3f4083e985fe9e0c45f1cb950807501</hash>
         <hash type="sha-512">78f35b905eac0a1275847622821f4316647b0688c2b7171e147bcd14edb19facdebaedbfaaf65ba5293300bfab88cc853af81db3cffdeabeacc8bbcff6a20b11</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20200301_29thReportUkraine_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20200901_30thReportUkraine_EN.pdf">
         <date>2020-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-16-february-31-july-2020"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/30thReportUkraine_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/30thReportUkraine_EN.pdf</url>
         <size>4589695</size>
         <hash type="md5">d99aed6fc0955c0113464d8181f6379c</hash>
         <hash type="sha-512">5984df665d6f6ed461d2d4b3a39c0e243067ffe91f1616e809891650c92c3ae8e265e9653c3b2970d9dd6e0bb7813f5b1c0f3fda65d48fccd3d1582721803676</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20200901_30thReportUkraine_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20200901_HRMMU_Update_2020-11-01_EN.pdf">
         <date>2020-09-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/update-human-rights-situation-ukraine-1-august-31-october-2020"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMU_Update_2020-11-01_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMU_Update_2020-11-01_EN.pdf</url>
         <size>6192878</size>
         <hash type="md5">58cf48fa76aa70ed3fad0908ed0c9206</hash>
         <hash type="sha-512">6c8452d7d8aa401a3d6b4bcc7681986d737b1b2c1cb415da23726e306520a02a2752d313fb172f685813af44dfa429af97ad8da1c7460e72177c163bff7994ad</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20200901_HRMMU_Update_2020-11-01_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20210301_31stReportUkraine-en.pdf">
         <date>2021-03-01</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-1-august-2020-31-january-2021"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/31stReportUkraine-en.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/31stReportUkraine-en.pdf</url>
         <size>6405782</size>
         <hash type="md5">2898c68d9293691c529194d14856744e</hash>
         <hash type="sha-512">366cffb6971661399f0a322272103e49abaa5c85f8bfa6742f05af4dc2ecb85d6f9b7b0c47b8dad828a238fd60b9a035cf8b2abb13320326bc30f5e11fdbb28f</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20210301_31stReportUkraine-en.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="crimea_20210507_G2111364.pdf">
         <date>2021-05-07</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/ahrc4758-situation-human-rights-autonomous-republic-crimea-and-city"/>
-        <url>https://documents-dds-ny.un.org/doc/UNDOC/GEN/G21/113/64/PDF/G2111364.pdf</url>
+        <url priority="2">https://documents-dds-ny.un.org/doc/UNDOC/GEN/G21/113/64/PDF/G2111364.pdf</url>
         <size>210891</size>
         <hash type="md5">aa4aece448f4159a00a509fa63876c10</hash>
         <hash type="sha-512">ad6c9e08992524d539a82377c6065d4d333968d50ea0d0aadcda57ce708359e0d75ffeae10ea0a311153afd067cb9f2a0e04b03b3f0f1d3c2f62ab0641b70686</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/crimea_20210507_G2111364.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20210923_32ndReportUkraine-en.pdf">
         <date>2021-09-23</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-1-february-31-july-2021"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/32ndReportUkraine-en.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/32ndReportUkraine-en.pdf</url>
         <size>3154158</size>
         <hash type="md5">72ecf5d8ab75d7705c5215a0094d2b6d</hash>
         <hash type="sha-512">ef6566d500351379a7035c1b7cbb33bad05d0375a157dfa7f4c1322692b529f3a5209e39b308deba2dadaa273bc602d6225285d044fdd15d93415092548b9274</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20210923_32ndReportUkraine-en.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20220328_33rdReportUkraine-en.pdf">
         <date>2022-03-28</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-1-august-2021-31-january-2022"/>
-        <url>https://www.ohchr.org/sites/default/files/2022-03/33rdReportUkraine-en.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/2022-03/33rdReportUkraine-en.pdf</url>
         <size>1074770</size>
         <hash type="md5">838cfed5b29bc904cfd7d82459d41ead</hash>
         <hash type="sha-512">590dda79b1b3ae3df73d3fa81700239f9df180d0444d4c759a8441bffd7cd7b54506444d2e7ed25ef3b02454c171387557d6ff5bf736de6e06fbdd465dd911a9</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20220328_33rdReportUkraine-en.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20220328_HRMMU_Update_2022-03-26_EN.pdf">
         <date>2022-03-28</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/hrmmu-update-human-rights-situation-ukraine-24-february-26-march-2022"/>
-        <url>https://www.ohchr.org/sites/default/files/2022-03/HRMMU_Update_2022-03-26_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/2022-03/HRMMU_Update_2022-03-26_EN.pdf</url>
         <size>977580</size>
         <hash type="md5">d259db6422e7c53dc6e45ea0600ddf31</hash>
         <hash type="sha-512">04db7672a146cc800ce4e0a185c5e340d8385748d5a9839d5d7b7b3afb476c3d524bc2fbb8af97b8aebd3ba1b1395e795a636ef100471f46664985d5887fc853</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20220328_HRMMU_Update_2022-03-26_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="20220629_2022-06-UkraineArmedAttack-EN.pdf">
         <date>2022-06-29</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/situation-human-rights-ukraine-context-armed-attack-russian-federation"/>
-        <url>https://www.ohchr.org/sites/default/files/documents/countries/ua/2022-06-29/2022-06-UkraineArmedAttack-EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/documents/countries/ua/2022-06-29/2022-06-UkraineArmedAttack-EN.pdf</url>
         <size>1059247</size>
         <hash type="md5">0c6a58216fd37c60f5ba479cb972acf3</hash>
         <hash type="sha-512">d389a6482a9ac04323efb4108860c63d940401acc76abdd848cb8bae2da130a6e9293dadf70f700d0f57004d45d2a35998430788179b5d36c8e42e714ca8edbf</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/20220629_2022-06-UkraineArmedAttack-EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
     <file name="UkraineArbDetTorture_EN.pdf">
         <date>2021-06-02</date>
         <publisher name="Office of the High Commissioner for Human Rights" url="https://www.ohchr.org/en/documents/country-reports/arbitrary-detention-torture-and-ill-treatment-context-armed-conflict"/>
-        <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UkraineArbDetTorture_EN.pdf</url>
+        <url priority="2">https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UkraineArbDetTorture_EN.pdf</url>
         <size>2646202</size>
         <hash type="md5">cd93accdb3153e270974f4cf876a5ea5</hash>
         <hash type="sha-512">cb625b51648d96512e3cd30b1de763445395ba80846c27ba8a52f94f0a1963a90abe8f60f5a2a5a05b5e72d1d28a6ef05e59212fbe186e16aeff76b7c8f70a05</hash>
+        <metaurl mediatype="torrent" priority="1" name="ohchr-reports-on-ukraine/UkraineArbDetTorture_EN.pdf">https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent</metaurl>
     </file>
 </metalink>

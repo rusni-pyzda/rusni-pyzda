@@ -29,3 +29,18 @@ update_metalink:
 	done
 	xml format --indent-spaces 4 reports.meta4 > reports.meta4.tmp
 	mv reports.meta4.tmp reports.meta4
+
+add_torrent_info:
+	xml sel -N 'm=urn:ietf:params:xml:ns:metalink' -t -v '/m:metalink/m:file/@name' -nl reports.meta4 | while read file; do \
+		xml ed -S -L -N 'm=urn:ietf:params:xml:ns:metalink' \
+			-d '/m:metalink/m:file[@name="'"$${file}"'"]/m:metaurl' \
+			-s '/m:metalink/m:file[@name="'"$${file}"'"]' -t elem -n metaurl -v https://rusni-pyzda.in.ua/ohchr-reports/reports.torrent \
+			-s '/m:metalink/m:file[@name="'"$${file}"'"]/metaurl' -t attr -n mediatype -v torrent \
+			-s '/m:metalink/m:file[@name="'"$${file}"'"]/metaurl' -t attr -n priority -v 1 \
+			-s '/m:metalink/m:file[@name="'"$${file}"'"]/metaurl' -t attr -n name -v "ohchr-reports-on-ukraine/$${file}" \
+			-d '/m:metalink/m:file[@name="'"$${file}"'"]/m:url/@priority' \
+			-s '/m:metalink/m:file[@name="'"$${file}"'"]/m:url' -t attr -n priority -v 2 \
+			reports.meta4; \
+	done
+	xml format --indent-spaces 4 reports.meta4 > reports.meta4.tmp
+	mv reports.meta4.tmp reports.meta4

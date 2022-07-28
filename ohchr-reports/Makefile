@@ -8,7 +8,7 @@ all: download
 
 download: reports.meta4
 	aria2c --save-cookies=cookies.txt --dry-run 'https://documents-dds-ny.un.org/prod/ods_mother.nsf?Login=&Username=freeods2&Password=1234'
-	aria2c --load-cookies=cookies.txt --allow-overwrite=true --check-integrity=true $<
+	aria2c --load-cookies=cookies.txt --allow-overwrite=true --check-integrity=true --seed-time=0 --follow-torrent=mem $<
 	rm cookies.txt
 
 clean:

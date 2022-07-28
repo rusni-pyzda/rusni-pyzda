@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <origin dynamic="true">https://rusni-pyzda.in.ua/ohchr-reports/reports.meta4</origin>
     <file name="20151209_12thOHCHRreportUkraine.pdf">
         <!-- Incorrectly shows up on the website as published in 2005 -->
         <date>2015-12-09</date>
@@ -48,7 +49,7 @@
         <publisher
                 name="Office of the High Commissioner for Human Rights"
                 url="https://www.ohchr.org/en/documents/country-reports/report-situation-human-rights-ukraine"/>
-        <url>http://daccess-ods.un.org/access.nsf/Get?Open&amp;DS=A/HRC/27/75&amp;Lang=E</url>
+        <url>https://documents-dds-ny.un.org/doc/UNDOC/GEN/G14/167/38/PDF/G1416738.pdf</url>
     </file>
     <file name="20141008_OHCHR_sixth_report_on_Ukraine.pdf">
         <date>2014-10-08</date>
@@ -232,12 +233,12 @@
                 url="https://www.ohchr.org/en/documents/country-reports/report-human-rights-situation-ukraine-1-august-2020-31-january-2021"/>
         <url>https://www.ohchr.org/sites/default/files/Documents/Countries/UA/31stReportUkraine-en.pdf</url>
     </file>
-    <file name="20210507_G2111364.pdf">
+    <file name="crimea_20210507_G2111364.pdf">
         <date>2021-05-07</date>
         <publisher
                 name="Office of the High Commissioner for Human Rights"
                 url="https://www.ohchr.org/en/documents/country-reports/ahrc4758-situation-human-rights-autonomous-republic-crimea-and-city"/>
-        <url>https://www.undocs.org/en/A/HRC/47/58</url>
+        <url>https://documents-dds-ny.un.org/doc/UNDOC/GEN/G21/113/64/PDF/G2111364.pdf</url>
     </file>
     <file name="20210923_32ndReportUkraine-en.pdf">
         <date>2021-09-23</date>

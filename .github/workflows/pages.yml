@@ -28,11 +28,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Checkout russian-asset-list
-        uses: actions/checkout@v3
-        with:
-          repository: rusni-pyzda/russian-asset-list
-          path: russian-asset-list
+        submodules: recursive
+      - name: Update submodules
+        run: git submodule update --remote --recursive
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: Build with Jekyll

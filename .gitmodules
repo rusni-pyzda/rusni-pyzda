@@ -1,0 +1,4 @@
+[submodule "russian-asset-list"]
+	path = russian-asset-list
+	url = https://github.com/rusni-pyzda/russian-asset-list.git
+	branch = .

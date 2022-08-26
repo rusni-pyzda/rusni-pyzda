@@ -28,11 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        with:
-          submodules: recursive
-      - run: git pull --recurse-submodules
       - name: Update submodules
-        run: git submodule update --remote
+        run: git submodule update --remote --init --recursive --depth 1
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: Build with Jekyll

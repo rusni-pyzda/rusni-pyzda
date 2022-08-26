@@ -29,7 +29,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Update submodules
-        run: git submodule update --remote --init --recursive --depth 1
+        run: git submodule update --remote --init --recursive
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: Build with Jekyll

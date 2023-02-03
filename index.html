@@ -1,29 +1,59 @@
 <!DOCTYPE html>
-<html lang="ua">
+<html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
         <title>Русні пизда</title>
+        <style>
+            .localized:not(.lang-en) :lang(en) {
+                display: none;
+            }
+            .localized:not(.lang-uk) :lang(uk) {
+                display: none;
+            }
+        </style>
     </head>
-    <body>
+    <body class="localized lang-en">
     <div class="columns">
     <section class="section column is-half-desktop is-offset-one-quarter-desktop">
         <div class="container">
-            <h1 class="title">Русні пизда</h1>
-            <p class="subtitle">Щоб пизда русні наступила швидше, ви можете:</p>
+            <h1 class="title" lang="uk">Русні пизда</h1>
+            <h1 class="title" lang="en">Rusni pyzda</h1>
+            <p class="subtitle" lang="uk">Щоб пизда русні наступила швидше, ви можете:</p>
+            <p class="subtitle" lang="en">To help russians to get fucked sooner, you can:</p>
             <a href="https://savelife.in.ua/donate/" class="button is-primary is-fullwidth">
-                Дати гроші фонду "Повернись живим" 
+                <span lang="uk">Дати гроші фонду "Повернись живим"</span>
+                <span lang="en">Donate to "Come Back Alive"</span>
             </a><br/><br/>
             <a href="https://bank.gov.ua/ua/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi" class="button is-primary is-fullwidth">
-                Дати гроші Збройним Силам Україні через Національний Банк
+                <span lang="uk">Дати гроші Збройним Силам Україні через Національний Банк</span>
+                <span lang="en">Donate to Ukraine's Armed Forces via National Bank</span>
             </a><br/><br/>
             <a href="https://www.rusni-pyzda.com" class="button is-fullwidth">
-                Купити футболку
+                <span lang="uk">Купити футболку</span>
+                <span lang="en">Buy a t-shirt</span>
             </a><br/><br/>
-
         </div>
     </section>
     </div>
+
+    <script>
+        const userLangs = navigator.languages.map(s => s.split("-")[0]);
+        const supported = ["uk", "en"];
+        const negotiateLang = () => {
+            if (userLangs.includes("uk")) { return "uk"; }
+            for (const l of userLangs) {
+                if (supported.includes(l)) { return l; }
+            }
+            return "en";
+        };
+        const lang = negotiateLang();
+        const body = document.querySelector('body');
+        for (const c of Array.from(body.classList.values()).filter(s => s.startsWith("lang-"))) {
+            body.classList.remove(c);
+        }        
+        body.classList.add(`lang-${lang}`);
+    </script>
     </body>
 </html>
